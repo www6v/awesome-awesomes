@@ -33,45 +33,51 @@ https://github.com/operator-framework/awesome-operators
 https://github.com/rootsongjc/awesome-cloud-native
 
 ## Others
-https://github.com/rayokota/awesome-hbase 
 
-https://github.com/pingcap/awesome-database-learning 
-
-https://github.com/heynickc/awesome-ddd 
-
-https://github.com/theanalyst/awesome-distributed-systems 
-
-https://github.com/liwf616/awesome-live-stream
-
-https://github.com/alebcay/awesome-shell
-
-https://github.com/ityouknow/awesome-spring-boot
-https://github.com/ityouknow/awesome-spring-boot
 
 https://github.com/ityouknow/awesome-interviews
 
 https://github.com/www6v/awesome-project self
 
-https://github.com/dzharii/awesome-elasticsearch
-https://github.com/dzharii/awesome-elasticsearch
 
 
+## Arch && Design
+https://github.com/DovAmir/awesome-design-patterns
+
+https://github.com/heynickc/awesome-ddd
+https://github.com/heynickc/awesome-ddd 
+
+## Distributed System
+https://github.com/ityouknow/awesome-spring-boot
+https://github.com/ityouknow/awesome-spring-boot
 
 https://github.com/dastergon/awesome-chaos-engineering
 
 https://github.com/dastergon/awesome-sre
 
-https://github.com/heynickc/awesome-ddd
+https://github.com/theanalyst/awesome-distributed-systems 
+
+https://github.com/mfornos/awesome-microservices
+
+https://github.com/liwf616/awesome-live-stream
+
+## Data
+https://github.com/pingcap/awesome-database-learning
+
+https://github.com/dzharii/awesome-elasticsearch
+https://github.com/dzharii/awesome-elasticsearch
 
 https://github.com/0xnr/awesome-bigdata
 
-https://github.com/pingcap/awesome-database-learning
+https://github.com/rayokota/awesome-hbase 
 
-https://github.com/mfornos/awesome-microservices
+https://github.com/pingcap/awesome-database-learning 
 
 ## Tools
 https://github.com/jaywcjlove/awesome-mac
 
+https://github.com/iCHAIT/awesome-macOS
+
 https://github.com/unixorn/awesome-zsh-plugins
 
-https://github.com/iCHAIT/awesome-macOS
+https://github.com/alebcay/awesome-shell

@@ -12,19 +12,16 @@ https://github.com/theanalyst/awesome-distributed-systems
 
 https://github.com/roaldnefs/awesome-prometheus
 
-https://github.com/avelino/awesome-go
-
 https://github.com/operator-framework/awesome-operators
 
 https://github.com/rootsongjc/awesome-cloud-native
 
 https://github.com/liwf616/awesome-live-stream
 
-https://github.com/Blankj/awesome-java-leetcode
+
 
 https://github.com/alebcay/awesome-shell
 
-https://github.com/jobbole/awesome-go-cn
 
 https://github.com/ityouknow/awesome-spring-boot
 
@@ -34,4 +31,12 @@ https://github.com/ityouknow/awesome-interviews
 
 https://github.com/www6v/awesome-project self
 
+
+## 语言
 https://github.com/rust-unofficial/awesome-rust
+
+https://github.com/avelino/awesome-go
+
+https://github.com/jobbole/awesome-go-cn
+
+https://github.com/Blankj/awesome-java-leetcode

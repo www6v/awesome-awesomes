@@ -41,13 +41,13 @@ https://github.com/rustcc/awesome-rust
 ## Cloud Native
 https://github.com/servicemesher/awesome-servicemesh
 
-https://github.com/ramitsurana/awesome-kubernetes 
+https://github.com/ramitsurana/awesome-kubernetes  normal
 
 https://github.com/roaldnefs/awesome-prometheus
 
 https://github.com/operator-framework/awesome-operators
 
-https://github.com/rootsongjc/awesome-cloud-native
+https://github.com/rootsongjc/awesome-cloud-native  good
 
 https://github.com/veggiemonk/awesome-docker
 

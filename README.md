@@ -8,7 +8,7 @@ https://github.com/inputsh/awesome-c
 https://github.com/lk-geimfari/awesomo  大而全
 
 
-### Java
+#### Java
 https://github.com/Blankj/awesome-java-leetcode
 
 https://github.com/Vedenin/useful-java-links
@@ -17,7 +17,7 @@ https://github.com/lauris/awesome-scala
 
 https://github.com/akullpp/awesome-java
 
-### Go
+#### Go
 https://github.com/avelino/awesome-go
 
 https://github.com/jobbole/awesome-go-cn
@@ -30,7 +30,7 @@ https://github.com/tmrts/go-patterns
 
 https://github.com/dariubs/GoBooks
 
-### Rust
+#### Rust
 https://github.com/rust-unofficial/awesome-rust
 
 https://github.com/awesome-rust-com/awesome-rust

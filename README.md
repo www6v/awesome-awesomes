@@ -80,6 +80,8 @@ https://github.com/fcambus/nginx-resources
 
 https://github.com/marmelab/awesome-rest
 
+https://github.com/shuaibiyy/awesome-terraform
+
 ## Data
 https://github.com/pingcap/awesome-database-learning
 

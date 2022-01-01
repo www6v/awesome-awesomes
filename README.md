@@ -33,3 +33,5 @@ https://github.com/servicemesher/awesome-servicemesh
 https://github.com/ityouknow/awesome-interviews
 
 https://github.com/www6v/awesome-project self
+
+https://github.com/rust-unofficial/awesome-rust

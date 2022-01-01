@@ -3,24 +3,12 @@
 
 
 ## Language
-https://github.com/rust-unofficial/awesome-rust
+https://github.com/inputsh/awesome-c
 
-https://github.com/awesome-rust-com/awesome-rust
+https://github.com/lk-geimfari/awesomo  大而全
 
-https://github.com/rustcc/awesome-rust
 
-https://github.com/avelino/awesome-go
-
-https://github.com/jobbole/awesome-go-cn
-
-https://github.com/yinggaozhen/awesome-go-cn
-
-https://github.com/hackstoic/golang-open-source-projects
-
-https://github.com/dariubs/GoBooks
-
-https://github.com/tmrts/go-patterns
-
+### Java
 https://github.com/Blankj/awesome-java-leetcode
 
 https://github.com/Vedenin/useful-java-links
@@ -29,10 +17,25 @@ https://github.com/lauris/awesome-scala
 
 https://github.com/akullpp/awesome-java
 
-https://github.com/inputsh/awesome-c
+### Go
+https://github.com/avelino/awesome-go
 
-https://github.com/lk-geimfari/awesomo  大而全
+https://github.com/jobbole/awesome-go-cn
 
+https://github.com/yinggaozhen/awesome-go-cn
+
+https://github.com/hackstoic/golang-open-source-projects
+
+https://github.com/tmrts/go-patterns
+
+https://github.com/dariubs/GoBooks
+
+### Rust
+https://github.com/rust-unofficial/awesome-rust
+
+https://github.com/awesome-rust-com/awesome-rust
+
+https://github.com/rustcc/awesome-rust
 
 
 ## Cloud Native

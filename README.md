@@ -103,7 +103,6 @@ https://github.com/fcambus/nginx-resources
 
 https://github.com/grpc-ecosystem/awesome-grpc
 
-https://github.com/briatte/awesome-network-analysis 学术
 
 ## Data
 https://github.com/pingcap/awesome-database-learning

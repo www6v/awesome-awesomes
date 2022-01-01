@@ -11,9 +11,13 @@ https://github.com/avelino/awesome-go
 
 https://github.com/jobbole/awesome-go-cn
 
+https://github.com/yinggaozhen/awesome-go-cn
+
 https://github.com/hackstoic/golang-open-source-projects
 
 https://github.com/dariubs/GoBooks
+
+https://github.com/tmrts/go-patterns
 
 https://github.com/Blankj/awesome-java-leetcode
 
@@ -22,6 +26,10 @@ https://github.com/Vedenin/useful-java-links
 https://github.com/lauris/awesome-scala
 
 https://github.com/akullpp/awesome-java
+
+https://github.com/inputsh/awesome-c
+
+https://github.com/lk-geimfari/awesomo  大而全
 
 
 
@@ -46,11 +54,17 @@ https://github.com/JoseDeFreitas/awesome-youtubers
 
 https://github.com/ityouknow/awesome-interviews
 
+https://github.com/rekihattori/awesome-programmers  大牛们
+
 https://github.com/www6v/awesome-project self
 
 https://github.com/learn-anything/books 大而全
 
+https://github.com/lnishan/awesome-competitive-programming  竞赛
 
+https://github.com/inputsh/awesome-linux
+
+https://github.com/emijrp/awesome-awesome
 
 ## Arch && Design
 https://github.com/DovAmir/awesome-design-patterns
@@ -76,11 +90,15 @@ https://github.com/mfornos/awesome-microservices
 
 https://github.com/liwf616/awesome-live-stream
 
-https://github.com/fcambus/nginx-resources
-
 https://github.com/marmelab/awesome-rest
 
 https://github.com/shuaibiyy/awesome-terraform
+
+https://github.com/fcambus/nginx-resources
+
+https://github.com/grpc-ecosystem/awesome-grpc
+
+https://github.com/briatte/awesome-network-analysis 学术
 
 ## Data
 https://github.com/pingcap/awesome-database-learning
@@ -104,3 +122,9 @@ https://github.com/iCHAIT/awesome-macOS
 https://github.com/unixorn/awesome-zsh-plugins
 
 https://github.com/alebcay/awesome-shell
+
+https://github.com/onqtam/awesome-cmake
+
+https://github.com/markusschanta/awesome-jupyter
+
+https://github.com/styfle/awesome-online-ide

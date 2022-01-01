@@ -32,3 +32,5 @@ https://github.com/ityouknow/awesome-spring-boot
 https://github.com/servicemesher/awesome-servicemesh
 
 https://github.com/ityouknow/awesome-interviews
+
+https://github.com/www6v/awesome-project self

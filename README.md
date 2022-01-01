@@ -44,6 +44,8 @@ https://github.com/ityouknow/awesome-interviews
 
 https://github.com/www6v/awesome-project self
 
+https://github.com/dzharii/awesome-elasticsearch
+
 ## Tools
 https://github.com/jaywcjlove/awesome-mac
 

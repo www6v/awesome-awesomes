@@ -25,7 +25,6 @@ https://github.com/Blankj/awesome-java-leetcode
 https://github.com/alebcay/awesome-shell
 
 https://github.com/jobbole/awesome-go-cn
-https://github.com/jobbole/awesome-go-cn
 
 https://github.com/ityouknow/awesome-spring-boot
 

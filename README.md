@@ -48,6 +48,8 @@ https://github.com/ityouknow/awesome-interviews
 
 https://github.com/www6v/awesome-project self
 
+https://github.com/learn-anything/books 大而全
+
 
 
 ## Arch && Design
@@ -57,6 +59,8 @@ https://github.com/heynickc/awesome-ddd
 https://github.com/heynickc/awesome-ddd 
 
 https://github.com/mhadidg/software-architecture-books
+
+https://github.com/binhnguyennus/awesome-scalability
 
 ## Distributed System
 https://github.com/ityouknow/awesome-spring-boot

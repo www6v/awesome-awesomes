@@ -11,7 +11,15 @@ https://github.com/avelino/awesome-go
 
 https://github.com/jobbole/awesome-go-cn
 
+https://github.com/hackstoic/golang-open-source-projects
+
 https://github.com/Blankj/awesome-java-leetcode
+
+https://github.com/Vedenin/useful-java-links
+
+https://github.com/lauris/awesome-scala
+
+
 
 ## Cloud Native
 https://github.com/servicemesher/awesome-servicemesh
@@ -45,7 +53,25 @@ https://github.com/ityouknow/awesome-interviews
 https://github.com/www6v/awesome-project self
 
 https://github.com/dzharii/awesome-elasticsearch
+https://github.com/dzharii/awesome-elasticsearch
+
+
+
+https://github.com/dastergon/awesome-chaos-engineering
+
+https://github.com/dastergon/awesome-sre
+
+https://github.com/heynickc/awesome-ddd
+
+https://github.com/0xnr/awesome-bigdata
+
+https://github.com/pingcap/awesome-database-learning
+
+https://github.com/mfornos/awesome-microservices
 
 ## Tools
 https://github.com/jaywcjlove/awesome-mac
 
+https://github.com/unixorn/awesome-zsh-plugins
+
+https://github.com/iCHAIT/awesome-macOS

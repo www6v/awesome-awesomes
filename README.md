@@ -5,6 +5,8 @@
 ## 语言
 https://github.com/rust-unofficial/awesome-rust
 
+https://github.com/awesome-rust-com/awesome-rust
+
 https://github.com/avelino/awesome-go
 
 https://github.com/jobbole/awesome-go-cn

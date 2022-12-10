@@ -106,7 +106,6 @@ https://github.com/grpc-ecosystem/awesome-grpc
 https://github.com/pingcap/awesome-database-learning
 
 https://github.com/dzharii/awesome-elasticsearch
-https://github.com/dzharii/awesome-elasticsearch
 
 https://github.com/0xnr/awesome-bigdata
 

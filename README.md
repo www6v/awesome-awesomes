@@ -87,7 +87,7 @@ https://github.com/dastergon/awesome-chaos-engineering
 
 https://github.com/dastergon/awesome-sre
 
-https://github.com/theanalyst/awesome-distributed-systems 
+https://github.com/theanalyst/awesome-distributed-systems  ***
 
 https://github.com/mfornos/awesome-microservices
 

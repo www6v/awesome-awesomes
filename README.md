@@ -75,7 +75,6 @@ https://github.com/emijrp/awesome-awesome
 https://github.com/DovAmir/awesome-design-patterns
 
 https://github.com/heynickc/awesome-ddd
-https://github.com/heynickc/awesome-ddd 
 
 https://github.com/mhadidg/software-architecture-books
 

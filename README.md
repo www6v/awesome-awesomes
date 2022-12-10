@@ -83,7 +83,6 @@ https://github.com/binhnguyennus/awesome-scalability
 
 ## Distributed System
 https://github.com/ityouknow/awesome-spring-boot
-https://github.com/ityouknow/awesome-spring-boot
 
 https://github.com/dastergon/awesome-chaos-engineering
 

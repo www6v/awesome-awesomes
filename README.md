@@ -103,15 +103,13 @@ https://github.com/grpc-ecosystem/awesome-grpc
 
 
 ## Data
-https://github.com/pingcap/awesome-database-learning
+https://github.com/pingcap/awesome-database-learning  ***
 
 https://github.com/dzharii/awesome-elasticsearch
 
 https://github.com/0xnr/awesome-bigdata
 
 https://github.com/rayokota/awesome-hbase 
-
-https://github.com/pingcap/awesome-database-learning 
 
 https://github.com/gostor/awesome-go-storage
 

@@ -5,7 +5,7 @@
 ## Language
 https://github.com/inputsh/awesome-c
 
-https://github.com/lk-geimfari/awesomo  大而全
+https://github.com/lk-geimfari/awesomo  //large and comprehensive
 
 
 #### Java
@@ -41,13 +41,13 @@ https://github.com/rustcc/awesome-rust
 ## Cloud Native
 https://github.com/servicemesher/awesome-servicemesh
 
-https://github.com/ramitsurana/awesome-kubernetes  normal
+https://github.com/ramitsurana/awesome-kubernetes  *
 
 https://github.com/roaldnefs/awesome-prometheus
 
 https://github.com/operator-framework/awesome-operators
 
-https://github.com/rootsongjc/awesome-cloud-native  good
+https://github.com/rootsongjc/awesome-cloud-native  ***
 
 https://github.com/veggiemonk/awesome-docker
 
@@ -63,7 +63,7 @@ https://github.com/rekihattori/awesome-programmers  大牛们
 
 https://github.com/www6v/awesome-project self
 
-https://github.com/learn-anything/books 大而全
+https://github.com/learn-anything/books //large and comprehensive
 
 https://github.com/lnishan/awesome-competitive-programming  竞赛
 

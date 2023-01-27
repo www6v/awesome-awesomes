@@ -79,10 +79,6 @@ https://github.com/binhnguyennus/awesome-scalability
 ## Distributed System
 https://github.com/ityouknow/awesome-spring-boot
 
-https://github.com/dastergon/awesome-chaos-engineering
-
-https://github.com/dastergon/awesome-sre
-
 https://github.com/theanalyst/awesome-distributed-systems  ***
 
 https://github.com/mfornos/awesome-microservices
@@ -91,7 +87,6 @@ https://github.com/liwf616/awesome-live-stream
 
 https://github.com/marmelab/awesome-rest
 
-https://github.com/shuaibiyy/awesome-terraform
 
 https://github.com/fcambus/nginx-resources
 
@@ -115,6 +110,16 @@ https://github.com/www6v/awesome-ebpf
 https://github.com/alebcay/awesome-shell
 
 https://github.com/inputsh/awesome-linux
+
+## Devops
+https://github.com/cloudnativeto/awesome-sre
+
+https://github.com/shuaibiyy/awesome-terraform
+
+https://github.com/dastergon/awesome-chaos-engineering
+
+https://github.com/dastergon/awesome-sre
+
 
 ## Tools
 https://github.com/jaywcjlove/awesome-mac

@@ -51,22 +51,6 @@ https://github.com/rootsongjc/awesome-cloud-native  ***
 
 https://github.com/veggiemonk/awesome-docker
 
-## Others
-
-https://github.com/stanzhai/be-a-professional-programmer
-
-https://github.com/JoseDeFreitas/awesome-youtubers
-
-https://github.com/ityouknow/awesome-interviews
-
-https://github.com/rekihattori/awesome-programmers  大牛们
-
-https://github.com/www6v/awesome-project self
-
-https://github.com/learn-anything/books //large and comprehensive
-
-https://github.com/lnishan/awesome-competitive-programming  竞赛
-
 ## Arch && Design
 https://github.com/DovAmir/awesome-design-patterns
 
@@ -133,6 +117,26 @@ https://github.com/onqtam/awesome-cmake
 https://github.com/markusschanta/awesome-jupyter
 
 https://github.com/styfle/awesome-online-ide
+
+
+
+## Others
+
+https://github.com/stanzhai/be-a-professional-programmer
+
+https://github.com/JoseDeFreitas/awesome-youtubers
+
+https://github.com/ityouknow/awesome-interviews
+
+https://github.com/rekihattori/awesome-programmers  大牛们
+
+https://github.com/www6v/awesome-project self
+
+https://github.com/learn-anything/books //large and comprehensive
+
+https://github.com/lnishan/awesome-competitive-programming  竞赛
+
+https://github.com/www6v/awesome-phd-advice   Collection of advice for prospective and current PhD students    
 
 ## inspired by this
 https://github.com/emijrp/awesome-awesome

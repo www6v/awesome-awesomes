@@ -67,8 +67,6 @@ https://github.com/learn-anything/books //large and comprehensive
 
 https://github.com/lnishan/awesome-competitive-programming  竞赛
 
-https://github.com/emijrp/awesome-awesome
-
 ## Arch && Design
 https://github.com/DovAmir/awesome-design-patterns
 
@@ -130,3 +128,6 @@ https://github.com/onqtam/awesome-cmake
 https://github.com/markusschanta/awesome-jupyter
 
 https://github.com/styfle/awesome-online-ide
+
+## inspired by this
+https://github.com/emijrp/awesome-awesome

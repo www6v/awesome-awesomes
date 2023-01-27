@@ -8,7 +8,7 @@ https://github.com/inputsh/awesome-c
 https://github.com/lk-geimfari/awesomo  //large and comprehensive
 
 
-#### Java
+##### Java
 https://github.com/Blankj/awesome-java-leetcode
 
 https://github.com/Vedenin/useful-java-links
@@ -17,7 +17,7 @@ https://github.com/lauris/awesome-scala
 
 https://github.com/akullpp/awesome-java
 
-#### Go
+##### Go
 https://github.com/avelino/awesome-go
 
 https://github.com/jobbole/awesome-go-cn
@@ -30,7 +30,7 @@ https://github.com/tmrts/go-patterns
 
 https://github.com/dariubs/GoBooks
 
-#### Rust
+##### Rust
 https://github.com/rust-unofficial/awesome-rust
 
 https://github.com/awesome-rust-com/awesome-rust
@@ -66,8 +66,6 @@ https://github.com/www6v/awesome-project self
 https://github.com/learn-anything/books //large and comprehensive
 
 https://github.com/lnishan/awesome-competitive-programming  竞赛
-
-https://github.com/inputsh/awesome-linux
 
 https://github.com/emijrp/awesome-awesome
 
@@ -113,14 +111,19 @@ https://github.com/rayokota/awesome-hbase
 
 https://github.com/gostor/awesome-go-storage
 
+## Linux
+https://github.com/www6v/awesome-ebpf
+
+https://github.com/alebcay/awesome-shell
+
+https://github.com/inputsh/awesome-linux
+
 ## Tools
 https://github.com/jaywcjlove/awesome-mac
 
 https://github.com/iCHAIT/awesome-macOS
 
 https://github.com/unixorn/awesome-zsh-plugins
-
-https://github.com/alebcay/awesome-shell
 
 https://github.com/onqtam/awesome-cmake
 
